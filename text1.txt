@@ -1,5 +1,6 @@
-��ֻ�ǵ�һ�����ԣ���ʼ��
-����
-���귢�������ط�֧
-�͵�Զ�̷�֧
-�ύ��branchesfirst
+我只是第一个测试，初始版
+改了
+改完发送至本地分支
+送到远程分支
+提交到branchesfirst
+修改远程的branchesmaster
